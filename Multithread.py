@@ -1,4 +1,4 @@
-import pandas as pd
+#import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 from playwright.sync_api import sync_playwright
 
